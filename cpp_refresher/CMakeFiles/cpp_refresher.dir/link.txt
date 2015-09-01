@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cpp_refresher.dir/cpp_refresher.cc.o CMakeFiles/cpp_refresher.dir/unit_tests.cc.o  -o cpp_refresher  libtesting_framework.a 
